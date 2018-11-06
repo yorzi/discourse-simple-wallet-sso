@@ -1,4 +1,4 @@
 plugins:
-  discourse_plugin_template_enabled:
+  discourse_simple_wallet_sso_enabled:
     default: false
     client: true
