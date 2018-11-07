@@ -9,4 +9,4 @@ enabled_site_setting :discourse_simple_wallet_sso_enabled
 
 register_asset 'stylesheets/discourse-simple-wallet-sso.scss'
 
-load File.expand_path('../lib/discourse-simple-wallet-sso/engine.rb', __FILE__)
+load File.expand_path('../lib/discourse_simple_wallet_sso/engine.rb', __FILE__)
